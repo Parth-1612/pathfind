@@ -1,0 +1,17 @@
+.Map{
+align-items: left;
+   grid-area: fixed ;
+   grid-row: auto;
+}
+.btn{
+    height: 40px;
+    font-weight: bold;
+    font-size: 22px;
+    font-style: oblique;
+    width: 400px;
+   margin: 20px 50px 20px 0;
+}
+.btn:hover{
+    
+    background-color: rgb(134, 166, 236);
+}
