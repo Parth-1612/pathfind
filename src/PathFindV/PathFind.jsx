@@ -78,10 +78,11 @@ export default class PathFind extends Component {
 
     return (
       <>
+
         <button className='btn' onClick={() => this.visualizeDijkstra()}>
           Visualize Dijkstra's Algorithm
         </button>
-
+        
         <button className='btn' onClick={() => window.location.reload()}>
           refresh !
         </button>
