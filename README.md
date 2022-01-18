@@ -1,7 +1,6 @@
 # Path Finding Visualizer
 ## Using Dijkstra's Algo
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## Problem Statement
 Given:
 - Bipartite Graph G(V = X ∪ Y, E)
